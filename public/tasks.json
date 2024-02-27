@@ -1,0 +1,29 @@
+{
+    "tasks": [
+        {
+            "title": "Bootstrap 4 Profile Cards            ",
+            "text": "One will most likely go for this Bootstrap user profile page template when creating a social app. ",
+            "id": 1
+        },
+        {
+            "title": "Fix Bug on Login Page",
+            "text": "Resolve the issue with the login page not rendering properly on certain devices.",
+            "id": 2
+        },
+        {
+            "title": "Implement Dashboard Charts",
+            "text": "One will most likely go for this Bootstrap user profile page template when creating a social app. ",
+            "id": 3
+        },
+        {
+            "title": "Add Pagination to Data Table",
+            "text": "Split large data tables into pages to improve performance and user experience.",
+            "id": 4
+        },
+        {
+            "title": "Refactor API Endpoints",
+            "text": "Clean up and optimize backend API endpoints for improved code maintainability.",
+            "id": 5
+        }
+    ]
+}
